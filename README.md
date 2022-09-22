@@ -1,1 +1,1 @@
-"# skola24TimetableCover" 
+# skola24TimetableCover
